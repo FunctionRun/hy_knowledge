@@ -5,7 +5,7 @@
    * [工具书](books/gongju.md)
    * [js编码规范](books/jsbian_ma_gui_fan.md)
    * [初级读本](books/chu_ji_du_ben.md)
-   * 中级读本
+   * [中级读本](books/zhong_ji_du_ben.md)
    * 高级读本
    * 饭后瞎扯
    * 组件化
