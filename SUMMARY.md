@@ -7,7 +7,7 @@
    * [初级读本](books/chu_ji_du_ben.md)
    * [中级读本](books/zhong_ji_du_ben.md)
    * [高级读本](books/gao_ji_du_ben.md)
-   * 饭后瞎扯
+   * [饭后瞎扯](books/fan_hou_xia_che.md)
    * 组件化
    * svg可视化
 
