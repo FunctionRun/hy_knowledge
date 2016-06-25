@@ -18,6 +18,6 @@
    * [弹窗效果](ui/tan_chuang_xiao_guo.md)
    * [进度条](ui/jin_du_tiao.md)
    * [loading](ui/loading.md)
-* 团队分享
+* [团队分享](team_share/tuan_dui_fen_xiang.md)
    * [2016_6_27](2016_6_27/20166_27.md)
 
