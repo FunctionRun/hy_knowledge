@@ -22,7 +22,7 @@
   ![js数据结构](../images/books/high_rofiling_js.png)
   
     
-5. 高级读本
+5. 高级读本   
      ![js框架设计](../images/books/js_ frame_thinking.png)
      
     ![js设计模式](../images/books/js_thinking.png)
@@ -30,7 +30,7 @@
     
     
 
-6. 饭后谈资
+6. 饭后谈资   
     ![你所不知道的js](../images/books/js_of_you_dont_know.png)
   
 7. 组件化
