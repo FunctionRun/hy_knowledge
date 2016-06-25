@@ -6,3 +6,4 @@
 4. [刘未鹏](http://mindhacks.cn/topics/learning-method/)
 5. [廖雪峰](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 6. [豪情](http://www.cnblogs.com/jikey/)
+7. 
