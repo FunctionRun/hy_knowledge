@@ -31,6 +31,7 @@
     
 
 6. 饭后谈资
-
+    ![你所不知道的js](../images/books/js_of_you_dont_know.png)
+  
 7. 组件化
 8. svg可视化
