@@ -1,3 +1,3 @@
 # 进度条
 
-[进度条](http://tympanus.net/Development/ProgressButtonStyles/)
+1. [进度条](http://tympanus.net/Development/ProgressButtonStyles/)
