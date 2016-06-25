@@ -15,7 +15,8 @@
       ![图解css](../images/books/graph_thinking_css.png)
 
 4. 中级读本
-![js语言精粹](../images/books/js_ essence.png)
+  ![js语言精粹](../images/books/js_ essence.png)
+
 5. 高级读本
 6. 饭后谈资
 7. 组件化
