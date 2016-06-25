@@ -3,7 +3,7 @@
 * [介绍](README.md)
 * [前端读本](books/qian_duan_du_ben.md)
    * [工具书](books/gongju.md)
-   * js编码规范
+   * [js编码规范](books/jsbian_ma_gui_fan.md)
    * 初级读本
    * 中级读本
    * 高级读本
