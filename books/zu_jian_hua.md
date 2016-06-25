@@ -1,3 +1,3 @@
 # 组件化
 
-![React](../images/books/React.png)
+![React](../images/books/React.png)  
