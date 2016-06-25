@@ -3,4 +3,4 @@
 
 ![D3API](../images/books/D3API.png)    
 
-![svg](../images/books/svg.png)
+![svg](../images/books/svg.png)    
