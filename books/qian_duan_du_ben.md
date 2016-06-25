@@ -34,5 +34,5 @@
     ![你所不知道的js](../images/books/js_of_you_dont_know.png)
   
 7. 组件化
-  ![React入门](../images/books/React.png)
+     ![React入门](../images/books/React.png)
 8. svg可视化
