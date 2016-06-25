@@ -19,5 +19,5 @@
    * [进度条](ui/jin_du_tiao.md)
    * [loading](ui/loading.md)
 * [团队分享](team_share/tuan_dui_fen_xiang.md)
-   * [2016_6_27](team_share/2016_6_27/2016627_md.md)
+   * [2016_6_27](team_share/2016_6_27/2016_6_27.md)
 
