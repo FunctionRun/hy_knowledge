@@ -19,7 +19,7 @@
   
   ![高性能js](../images/books/high_rofiling_js.png)
   
-    ![js数据结构](../images/books/data_structure_js.png)
+  ![js数据结构](../images/books/high_rofiling_js.png)
     
 5. 高级读本
 6. 饭后谈资
