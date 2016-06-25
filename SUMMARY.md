@@ -17,5 +17,5 @@
    * [webfont](ui/webfont.md)
    * [弹窗效果](ui/tan_chuang_xiao_guo.md)
    * [进度条](ui/jin_du_tiao.md)
-   * loading
+   * [loading](ui/loading.md)
 
