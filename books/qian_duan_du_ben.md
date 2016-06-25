@@ -26,6 +26,9 @@
      ![js框架设计](../images/books/js_ frame_thinking.png)
      
     ![js设计模式](../images/books/js_thinking.png)
+    ![jquery内幕](../images/books/jQuery.png)
+    
+    
 
 6. 饭后谈资
 7. 组件化
