@@ -7,7 +7,7 @@
     ![ES6](../images/books/ES6.png)
 
 
-2. js编码规范类
+2. js编码规范类   
  ![编写可维护的js](../images/books/maintenance_js.png)
 3. 初级读本
    ![js高级程序设计](../images/books/js_litter.png)
