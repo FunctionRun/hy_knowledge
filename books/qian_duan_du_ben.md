@@ -36,3 +36,4 @@
 7. 组件化
     ![React入门](../images/books/React.png)
 8. svg可视化
+![D3js](../images/books/D3js.png)
