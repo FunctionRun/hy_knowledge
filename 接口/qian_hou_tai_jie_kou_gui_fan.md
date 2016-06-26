@@ -212,6 +212,7 @@
 创建项目资源<a name="library-add"></a>
 ========
 > 上传项目资源
+
 ######URL
 
   POST /app/:appId/library
@@ -245,6 +246,7 @@
 获取项目资源<a name="library-get"></a>
 ========
 > 获取项目资源
+
 ######URL
 
     GET /app:appId/library
