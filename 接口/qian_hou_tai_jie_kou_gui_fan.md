@@ -29,34 +29,34 @@
 #####返回值
 
     {
-      "code": 0,
-      "msg": "success",
-      "result": {
-          "apps": [{
-              "name": "重庆迪爱斯项目",
-              "createTime": "2015-11-08",
-              "endTime": "2016-06-30",
-              "appId": 1,
-              "authName": "xxxx",
-              "adminIds": [1],
-              "thumbnail": "/public/images/space.png",
-              "developIds": [11],
-              "width": 1920,
-              "height": 1080
-            }, {
-              "name": "武汉东湖",
-              "createTime": "2015-11-08",
-              "endTime": "2016-06-30",
-              "appId": 2,
-              "authName": "xxxx",
-              "thumbnail": "/public/images/space.png",
-              "adminIds": [2],
-              "developIds": [21],
-              "width": 1920,
-              "height": 1080
-      }]
-  }
-}
+        "code": 0,
+        "msg": "success",
+        "result": {
+            "apps": [{
+                "name": "重庆迪爱斯项目",
+                "createTime": "2015-11-08",
+                "endTime": "2016-06-30",
+                "appId": 1,
+                "authName": "xxxx",
+                "adminIds": [1],
+                "thumbnail": "/public/images/space.png",
+                "developIds": [11],
+                "width": 1920,
+                "height": 1080
+              }, {
+                "name": "武汉东湖",
+                "createTime": "2015-11-08",
+                "endTime": "2016-06-30",
+                "appId": 2,
+                "authName": "xxxx",
+                "thumbnail": "/public/images/space.png",
+                "adminIds": [2],
+                "developIds": [21],
+                "width": 1920,
+                "height": 1080
+          }]
+       }
+     }
 
 #####返回字段说明
 
