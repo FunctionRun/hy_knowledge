@@ -281,6 +281,7 @@
 更新项目资源<a name="library-put"></a>
 ========
 > 更新项目资源
+
 ######URL
 
   PUT /app/:appId/library
