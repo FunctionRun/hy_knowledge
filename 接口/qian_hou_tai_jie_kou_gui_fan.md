@@ -164,6 +164,7 @@
 删除项目<a name="app-delete"></a>
 ========
 > 删除单个项目: auth才能删除项目
+
 #####URL
 
   DELETE /app/:appId
