@@ -314,6 +314,7 @@
 删除项目资源<a name="library-delete"></a>
 ========
 > 删除项目资源：只能单独删除一个文件
+
 ######URL
 
   DELETE /app/:appId/library/path/:pathUrl
