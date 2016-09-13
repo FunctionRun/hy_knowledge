@@ -2,37 +2,25 @@
 
 * [介绍](README.md)
 * [前端读本](books/qian_duan_du_ben.md)
-
-  * [工具书](books/gongju.md)
-  * [js编码规范](books/jsbian_ma_gui_fan.md)
-  * [初级读本](books/chu_ji_du_ben.md)
-  * [中级读本](books/zhong_ji_du_ben.md)
-  * [高级读本](books/gao_ji_du_ben.md)
-  * [饭后瞎扯](books/fan_hou_xia_che.md)
-  * [组件化](books/zu_jian_hua.md)
-  * [svg可视化](books/svgke_shi_hua.md)
-
+    * [工具书](books/gongju.md)
+    * [js编码规范](books/jsbian_ma_gui_fan.md)
+    * [初级读本](books/chu_ji_du_ben.md)
+    * [中级读本](books/zhong_ji_du_ben.md)
+    * [高级读本](books/gao_ji_du_ben.md)
+    * [饭后瞎扯](books/fan_hou_xia_che.md)
+    * [组件化](books/zu_jian_hua.md)
+    * [svg可视化](books/svgke_shi_hua.md)
 * [前端博客](blog/qian_duan_bo_ke.md)
-
-  * [team博客](blog/teambo_ke.md)
-  * [个人博客](blog/ge_ren_bo_ke.md)
-
+    * [team博客](blog/teambo_ke.md)
+    * [个人博客](blog/ge_ren_bo_ke.md)
 * [UI素材](ui/uisu_cai.md)
-
-  * [webfont](ui/webfont.md)
-  * [弹窗效果](ui/tan_chuang_xiao_guo.md)
-  * [进度条](ui/jin_du_tiao.md)
-  * [loading](ui/loading.md)
-
+    * [webfont](ui/webfont.md)
+    * [弹窗效果](ui/tan_chuang_xiao_guo.md)
+    * [进度条](ui/jin_du_tiao.md)
+    * [loading](ui/loading.md)
 * [团队分享](team_share/tuan_dui_fen_xiang.md)
-
-  * [2016\_6\_27](team_share/2016_6_27/2016_6_27.md)
-  * \[2016\_9\_13\]\(team\_share\/2016\_9\_13\/index.md\)
-  * 
-
+    * [2016\_6\_27](team_share/2016_6_27/2016_6_27.md)
+    * [2016\_9\_13](team_share/2016_9_13/index.md)
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
-
-  * [接口范文](接口/接口/jie_kou_fan_wen.md)
-  * 
-
+    * [接口范文](接口/接口/jie_kou_fan_wen.md)
 
