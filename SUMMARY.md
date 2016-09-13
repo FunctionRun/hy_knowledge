@@ -23,7 +23,6 @@
     * [2016\_9\_13](team_share/2016_9_13/index.md)
         * [脚手架使用说明](team_share/2016_9_13/20160913/generator-hyfe.md)
         * [React生命周期介绍](team_share/2016_9_13/20160913/React服务端渲染执行流程.md)
-        * [setState执行流程](team_share/2016_9_13/20160913/setState执行流程.pdf)
         * [Redux介绍](team_share/2016_9_13/20160913/redux.md)
         * [ReactRedux流程](team_share/2016_9_13/20160913/ReactRedux流程.png)
         * [React服务端渲染执行流程](team_share/2016_9_13/20160913/React服务端渲染执行流程.md)
