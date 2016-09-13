@@ -24,7 +24,6 @@
         * [脚手架使用说明](team_share/2016_9_13/20160913/generator-hyfe.md)
         * [React生命周期介绍](team_share/2016_9_13/20160913/React服务端渲染执行流程.md)
         * [Redux介绍](team_share/2016_9_13/20160913/redux.md)
-        * [ReactRedux流程](team_share/2016_9_13/20160913/ReactRedux流程.png)
         * [React服务端渲染执行流程](team_share/2016_9_13/20160913/React服务端渲染执行流程.md)
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
     * [接口范文](接口/接口/jie_kou_fan_wen.md)
