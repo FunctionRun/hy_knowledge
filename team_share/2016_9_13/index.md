@@ -6,7 +6,7 @@
   * [React生命周期介绍](20160913/React生命周期.md)
   * [setState执行流程](20160913/setState执行流程.pdf)
   * [redux介绍](20160913/redux.md)
-  * [ReactRedux流程](20160913/ReactRedux流程.md)
+  * [ReactRedux流程](/team_share/2016_9_13/20160913/ReactRedux流程.png)
   * [React服务端渲染执行流程](20160913/React服务端渲染执行流程.md)
 
 * 我学前端系列
