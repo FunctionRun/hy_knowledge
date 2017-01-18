@@ -4,8 +4,10 @@
     
 > 电话: 13269491793
    
-> 邮箱:  zhangyujie@hiynn.com    
+> 邮箱:  zhangyujie@hiynn.com
+    
 > 微信:  equationxyz    
+
 > QQ:   545418969    
 
 
