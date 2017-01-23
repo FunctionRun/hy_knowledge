@@ -20,7 +20,6 @@
         * [Redux介绍](team_share/2016_9_13/20160913/redux.md)
         * [ReactRedux流程](team_share/2016_9_13/reactredux流程.md)
         * [React服务端渲染执行流程](team_share/2016_9_13/React服务端渲染执行流程.md)
-    * [2016\_9\_20](https://github.com/baizn/cq-hyfe-share/tree/master/%E5%89%8D%E7%AB%AF%E4%BA%A4%E6%B5%81%E5%88%86%E4%BA%AB/220160920/count)
     * [2016\_9\_27](team_share/2016_9_27/ES6介绍.md)
     * [2016\_10\_11](team_share/2016_10_11/JavaScript编码规范.md)
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
