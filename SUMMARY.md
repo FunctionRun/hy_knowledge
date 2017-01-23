@@ -14,10 +14,6 @@
     * [team博客](blog/teambo_ke.md)
     * [个人博客](blog/ge_ren_bo_ke.md)
 * [UI素材](ui/uisu_cai.md)
-    * [webfont](ui/webfont.md)
-    * [弹窗效果](ui/tan_chuang_xiao_guo.md)
-    * [进度条](ui/jin_du_tiao.md)
-    * [loading](ui/loading.md)
 * [团队分享](team_share/tuan_dui_fen_xiang.md)
     * [2016\_6\_27](team_share/2016_6_27/2016_6_27.md)
     * [2016\_9\_13](team_share/2016_9_13/index.md)
@@ -31,5 +27,4 @@
     * [2016\_10\_11](team_share/2016_10_11/JavaScript编码规范.md)
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
     * [接口范文](接口/接口/jie_kou_fan_wen.md)
-
 
