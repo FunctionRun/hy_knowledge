@@ -11,8 +11,6 @@
     * [组件化](books/zu_jian_hua.md)
     * [svg可视化](books/svgke_shi_hua.md)
 * [前端博客](blog/qian_duan_bo_ke.md)
-    * [team博客](blog/teambo_ke.md)
-    * [个人博客](blog/ge_ren_bo_ke.md)
 * [UI素材](ui/uisu_cai.md)
 * [团队分享](team_share/tuan_dui_fen_xiang.md)
     * [2016\_6\_27](team_share/2016_6_27/2016_6_27.md)
