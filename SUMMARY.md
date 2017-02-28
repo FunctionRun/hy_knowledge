@@ -27,7 +27,7 @@
   * [2017\_02\_28\_3 如何开发一个图表到visual2D](team_share/2017_02_28/2017_02_28_3-visual2d.md)
     * [1 visual2D设计的整体思路](team_share/2017_02_28/2017_02_28_3-visual2d/1-visual2d.md)
     * [2 visual2D中类之间的继承关系](team_share/2017_02_28/2017_02_28_3-visual2d/2-visual2d.md)
-    * [3 作图规范](team_share/2016_6_27/2017_02_28_3-visual2d/3.md)
+    * [3 作图规范](team_share/2017_02_28/2017_02_28_3-visual2d/3.md)
     * [4 图形作图流程](team_share/2017_02_28/2017_02_28_3-visual2d/4.md)
     * 5 组件作图流程
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
