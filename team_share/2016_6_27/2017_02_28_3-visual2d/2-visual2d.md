@@ -16,5 +16,7 @@
 1. V层并没有提供类似于M的基类；
 2. Chart类位于src/view/chart.js文件中，是图表绘制部分的V层；
 3. Component类位于src/view/component.js文件中，对应图表中组件的V层;
+
+
 ![](/images/assets/ycharts_class.svg)
 
