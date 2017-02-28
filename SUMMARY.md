@@ -23,6 +23,7 @@
   * [2016\_9\_27](team_share/2016_9_27/ES6介绍.md)
   * [2016\_10\_11](team_share/2016_10_11/JavaScript编码规范.md)
   * [2017\_02\_28 gitlab产品源码版本使用命令](team_share/2016_6_27/2017_02_28-gitlab.md)
+  * [2017\_02\_28\_2 gitlab小团队负责人使用方式](team_share/2016_6_27/2017_02_28_2-gitlab.md)
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
   * [接口范文](接口/接口/jie_kou_fan_wen.md)
 
