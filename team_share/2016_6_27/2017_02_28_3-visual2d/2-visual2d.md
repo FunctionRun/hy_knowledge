@@ -1,4 +1,3 @@
-
 ### 继承关系阐释
 
 可视化库采用的是类似MVC的设计模式，因此代码组织也是严格按照该设计模式来进行的；这里主要说明的是M和V层的继承关系；
@@ -17,11 +16,9 @@
 2. Chart类位于src/view/chart.js文件中，是图表绘制部分的V层；
 3. Component类位于src/view/component.js文件中，对应图表中组件的V层;
 
-
 ![](/images/assets/ycharts_class.svg)
-
 
 #### 继承关系的图示
 
-![曲线图的不同组成部分以及继承管子](./images/assets/曲线图例.png)
+![](/images/assets/曲线图例.png)
 
