@@ -29,7 +29,6 @@
     * [2 visual2D中类之间的继承关系](team_share/2017_02_28/2017_02_28_3-visual2d/2-visual2d.md)
     * [3 作图规范](team_share/2016_6_27/2017_02_28_3-visual2d/3.md)
     * [4 图形作图流程](team_share/2017_02_28/2017_02_28_3-visual2d/4.md)
-      * [4.4 V层设计](team_share/2017_02_28/2017_02_28_3-visual2d/4/4.4-v.md)
     * 5 组件作图流程
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
   * [接口范文](接口/接口/jie_kou_fan_wen.md)
