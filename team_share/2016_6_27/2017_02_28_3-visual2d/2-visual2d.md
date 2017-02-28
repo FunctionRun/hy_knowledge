@@ -20,3 +20,8 @@
 
 ![](/images/assets/ycharts_class.svg)
 
+
+#### 继承关系的图示
+
+![曲线图的不同组成部分以及继承管子](./images/assets/曲线图例.png)
+
