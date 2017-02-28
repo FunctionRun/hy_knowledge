@@ -25,7 +25,7 @@
   * [2017\_02\_28 gitlab产品源码版本使用命令](team_share/2016_6_27/2017_02_28-gitlab.md)
   * [2017\_02\_28\_2 gitlab小团队负责人使用方式](team_share/2016_6_27/2017_02_28_2-gitlab.md)
   * [2017\_02\_28\_3 如何开发一个图表到visual2D](team_share/2016_6_27/2017_02_28_3-visual2d.md)
-    * [1 View和Model之间的关系](team_share/2016_6_27/2017_02_28_3-visual2d/1-viewmodel.md)
+    * [1 visual2D设计的整体思路](team_share/2016_6_27/2017_02_28_3-visual2d/1-visual2d.md)
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
   * [接口范文](接口/接口/jie_kou_fan_wen.md)
 
