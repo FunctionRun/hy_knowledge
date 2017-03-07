@@ -22,7 +22,7 @@
     * [React服务端渲染执行流程](team_share/2016_9_13/React服务端渲染执行流程.md)
   * [2016\_9\_27](team_share/2016_9_27/ES6介绍.md)
   * [2016\_10\_11](team_share/2016_10_11/JavaScript编码规范.md)
-  * [2017\_02\_28 gitlab产品源码版本使用命令](team_share/2016_6_27/2017_02_28-gitlab.md)
+  * [2017\_02\_28 gitlab产品源码版本使用命令](team_share/2017_02_28/2017_02_28-gitlab.md)
   * [2017\_02\_28\_2 gitlab小团队负责人使用方式](team_share/2017_02_28/2017_02_28_2-gitlab.md)
   * [2017\_02\_28\_3 如何开发一个图表到visual2D](team_share/2017_02_28/2017_02_28_3-visual2d.md)
     * [1 visual2D设计的整体思路](team_share/2017_02_28/2017_02_28_3-visual2d/1-visual2d.md)
