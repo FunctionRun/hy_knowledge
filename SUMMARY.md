@@ -1,3 +1,13 @@
+<!--
+@Author: haiwang
+@Date:   2016-12-01 19:48:58
+@Email:  violet0sea@163.com
+@Last modified by:   haiwang
+@Last modified time: 2017-03-29 11:06:13
+-->
+
+
+
 # Summary
 
 * [介绍](README.md)
@@ -35,6 +45,6 @@
       * [4.4 V层的流程](team_share/2017_02_28/2017_02_28_3-visual2d/4/4.4-v.md)
     * [5 组件作图流程](team_share/2017_02_28/2017_02_28_3-visual2d/5.md)
   * [2017\_02\_29 如何添加一个图表到图易中](team_share/2016_6_27/2017_02_28_4.md)
+  * [2017\_03\_29 基于Webpack2构建React项目](team_share/2017_03_29/基于Webpack2构建React项目.md)
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
   * [接口范文](接口/接口/jie_kou_fan_wen.md)
-
