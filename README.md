@@ -9,7 +9,7 @@
 
 ##### 系统知识文档
 1. [mozilla文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-2. [msdn文档](https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
+2. [msdn文档](https://msdn.microsoft.com/zh-cn/library/d1et7k7c\(v=vs.94\).aspx)
 3. [es6常用API](http://es6.ruanyifeng.com/#docs/intro)
 4. [函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 5. [webgl-mozilla文档](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
