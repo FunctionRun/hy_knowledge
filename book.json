@@ -1,3 +1,6 @@
 {
-    "title": "HYDATA FE KNOWLEGGE"
+    "title": "HYDATA FE KNOWLEGGE",
+    {
+    "plugins": ["toggle-chapters"]
+}
 }
