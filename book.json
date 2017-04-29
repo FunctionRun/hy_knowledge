@@ -1,5 +1,5 @@
 {
     "title": "HYDATA FE KNOWLEGGE",
-    "plugins": ["toggle-chapters"]
-    
+    "plugins": ["toggle-chapters"],
+    "styles": {}
 }
