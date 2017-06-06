@@ -36,6 +36,7 @@
     * [5 组件作图流程](team_share/2017_02_28/2017_02_28_3-visual2d/5.md)
   * [2017\_02\_29 如何添加一个图表到图易中](team_share/2016_6_27/2017_02_28_4.md)
   * [2017\_03\_29 基于Webpack2构建React项目](team_share/2017_03_29/2017_03_29_基于Webpack2构建React项目.md)
+  * [2017\_6\_6 基于图易和pdp的重构](team_share/2017_6_6.md)
 * [前后台接口规范](接口/qian_hou_tai_jie_kou_gui_fan.md)
   * [接口范文](接口/接口/jie_kou_fan_wen.md)
 
